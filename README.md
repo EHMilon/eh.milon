@@ -29,9 +29,9 @@ Ehsanul Haque Milon is a dedicated Flutter app developer with hands-on experienc
 
 *   **ShadhinAI:** A Flutter-based AI chatbot app built for Bangla-speaking people.
     *   [View on GitHub](https://github.com/EHMilon/ShadinAI-Github) &nbsp; 🐙
-*   **OmniAI:** An ultimate AI assistant hub that brings together the world's leading AI platforms in one convenient app.
+*   **OmniAI:** Omni AI is your ultimate AI assistant hub that brings together the world's leading AI platforms in one convenient app.
     *   [View on GitHub](https://github.com/EHMilon/OmniAI-Git) &nbsp; 🐙
-*   **Qsidian:** An Obsidian-inspired note-taking app with advanced knowledge graph features.
+*   **Qsidian:** Qsidian is a lightweight Flutter app designed to complement Obsidian by providing fast loading times and powerful home screen widget functionality for quick note access and management.
     *   [View on GitHub](https://github.com/EHMilon/Qsidian) &nbsp; 🐙
 *   **MediTime:** A medication reminder and health tracking app for better daily management.
     *   [View on GitHub](https://github.com/EHMilon/MediTime-git) &nbsp; 🐙
