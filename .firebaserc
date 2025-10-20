@@ -1,7 +1,20 @@
 {
-  "projects": {
-    "default": "ehmilon-dev"
-  },
-  "targets": {},
-  "etags": {}
+  "hosting": {
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "/app-ads.txt",
+        "destination": "/app-ads.txt" 
+      },
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
 }
