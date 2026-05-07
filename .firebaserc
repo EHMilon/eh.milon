@@ -15,7 +15,7 @@
     "redirects": [
       {
         "source": "/",
-        "destination": "https://www.example.com",
+        "destination": "https://ehmilon-dev.web.app/",
         "type": 301
       }
     ]
