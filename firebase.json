@@ -6,11 +6,12 @@
       "**/.*",
       "**/node_modules/**"
     ],
-    "rewrites": [
-      {
-        "source": "**",
-        "destination": "/index.html"
-      }
-    ]
+    "redirects": [
+    {
+      "source": "/",
+      "destination": "https://ehmilon-dev.web.app",
+      "type": 301
+    }
+  ]
   }
 }
